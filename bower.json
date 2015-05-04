@@ -1,0 +1,22 @@
+{
+  "name": "forest-calcs",
+  "version": "0.0.0",
+  "homepage": "https://github.com/cosmozhang1995/forest-calcs",
+  "authors": [
+    "cosmozhang <zjzxz3006@126.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "public/vendor"
+  ],
+  "dependencies": {
+    "jquery": "~1.9.0",
+    "bootstrap": "*",
+    "font-awesome": "~4.2.0"
+  }
+}
